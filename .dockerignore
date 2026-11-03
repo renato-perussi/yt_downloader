@@ -1,0 +1,22 @@
+.venv
+__pycache__
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.superpowers/
+docs/
+tests/
+.git/
+.gitignore
+.playwright-mcp/
+design_system/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# logs e relatórios de cobertura
+*.log
+.coverage
+htmlcov/
